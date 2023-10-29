@@ -1,4 +1,3 @@
-import React from 'react'
 
 function Introduction() {
   return (
@@ -10,7 +9,7 @@ function Introduction() {
         Shima <br></br>Yousefi
       </h2>
       <img className='object-covered w-[200px] h-[200px] bg-gray-200 p-1 rounded-full mt-7' 
-      src="/public/h-5-1.jpeg" />
+      src="/public/profile-1.png" />
     </div>
   );
 }
